@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-10-04T11:03:01",
+  "generated_at": "2026-10-08T14:41:58",
   "vehicle_count": 212,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,13 +20,16 @@
       "year": 2007,
       "make": "Toyota",
       "model": "FJ Cruiser 4WD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 BMW 3 Series Sedan 328i xDrive | Leather | Sunroof | White Rock",
       "vin": "WBA3B3G59FNR89368",
       "stock": "IV63407",
       "color": "Grey",
+      "trim": "328i xDrive",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/ae8291234877.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2015/bmw/3-series-sedan/surrey/bc/70604269/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2015/bmw/3-series-sedan/surrey/bc/70604269/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +39,17 @@
       "odometer_km": 104777,
       "year": 2015,
       "make": "BMW",
-      "model": "3 Series Sedan 328i xDrive",
-      "condition": "used"
+      "model": "3 Series",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Tucson Limited AWD | Low KM | Service History",
       "vin": "KM8JUCAGXFU982221",
       "stock": "TH60649",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/58fe8a184677.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2015/hyundai/tucson/surrey/bc/71323015/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2015/hyundai/tucson/surrey/bc/71323015/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +59,17 @@
       "odometer_km": 110108,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Tucson Limited AWD",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Mazda Mazda3 Sedan GX | Low KM | Navigation | Rear View Camera",
       "vin": "3MZBM1U7XGM243121",
       "stock": "TH69294",
       "color": "Blue",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/274be313f162.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2016/mazda/mazda3-sedan/surrey/bc/71166565/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2016/mazda/mazda3-sedan/surrey/bc/71166565/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +79,17 @@
       "odometer_km": 42528,
       "year": 2016,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GX",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Golf Hatchback TSI Trendline | Manual | No Accidents | White Rock",
       "vin": "3VW817AU6HM001542",
       "stock": "KN66217",
       "color": "Grey",
+      "trim": "TSI Trendline",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/c15bec92b87e.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2017/volkswagen/golf-hatchback/surrey/bc/71039740/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2017/volkswagen/golf-hatchback/surrey/bc/71039740/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,8 +99,10 @@
       "odometer_km": 91500,
       "year": 2017,
       "make": "Volkswagen",
-      "model": "Golf Hatchback TSI Trendline",
-      "condition": "used"
+      "model": "Golf",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Odyssey ",
@@ -105,12 +119,15 @@
       "year": 2018,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Elantra GT ",
       "vin": "KMHH35LE0JU066391",
       "stock": "IN64230",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/8ab2f1ed0952.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2018/hyundai/elantra-gt/surrey/bc/71241431/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2018/hyundai/elantra-gt/surrey/bc/71241431/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -120,14 +137,17 @@
       "odometer_km": 73158,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Elantra GT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Trax LS AWD | CarPlay | No Accidents | White Rock",
       "vin": "3GNCJNSB4KL152866",
       "stock": "M4728",
       "color": "Blue",
+      "trim": "LS",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/b0840dc95613.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/chevrolet/trax/surrey/bc/70961093/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/chevrolet/trax/surrey/bc/70961093/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -137,14 +157,17 @@
       "odometer_km": 77006,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Trax LS AWD",
-      "condition": "used"
+      "model": "Trax",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe Ultimate AWD | One Owner | Ventilated Seats",
       "vin": "5NMS5CAA3KH082912",
       "stock": "SY69899",
       "color": "Red",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/baf52b47f1ff.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/hyundai/santa-fe/surrey/bc/71340352/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/hyundai/santa-fe/surrey/bc/71340352/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -154,14 +177,17 @@
       "odometer_km": 114510,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate AWD",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Sentra Sedan SV | Heated Seats | CarPlay | Fuel Efficient",
       "vin": "3N1AB7AP5KY342090",
       "stock": "SH65615",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/b733cc41220d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/nissan/sentra-sedan/surrey/bc/71029035/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2019/nissan/sentra-sedan/surrey/bc/71029035/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -171,14 +197,17 @@
       "odometer_km": 176461,
       "year": 2019,
       "make": "Nissan",
-      "model": "Sentra Sedan SV",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 BMW 3 Series Sedan M340i xDrive | No Accidents | Low KM",
       "vin": "WBA5U9C00LFH60490",
       "stock": "M4778",
       "color": "Blue",
+      "trim": "M340i xDrive",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/2caa7a04fdd6.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2020/bmw/3-series-sedan/surrey/bc/71347373/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2020/bmw/3-series-sedan/surrey/bc/71347373/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -188,8 +217,10 @@
       "odometer_km": 55492,
       "year": 2020,
       "make": "BMW",
-      "model": "3 Series Sedan M340i xDrive",
-      "condition": "used"
+      "model": "3 Series",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape Hybrid ",
@@ -206,13 +237,16 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Pilot EX-L w/ Navi AWD | 7 Passenger | Sunroof",
       "vin": "5FNYF6H72LB504643",
       "stock": "M4765",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/cd3bc52ae94d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2020/honda/pilot/surrey/bc/71236245/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2020/honda/pilot/surrey/bc/71236245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -222,14 +256,17 @@
       "odometer_km": 106983,
       "year": 2020,
       "make": "Honda",
-      "model": "Pilot EX-L w/ Navi AWD",
-      "condition": "used"
+      "model": "Pilot",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Encore GX Essence GX ST | No Accidents | 14,600kms",
       "vin": "KL4MMGSL1MB158552",
       "stock": "M4774",
       "color": "White",
+      "trim": "Essence GX ST",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/71820c8ab690.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2021/buick/encore-gx/surrey/bc/71299916/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2021/buick/encore-gx/surrey/bc/71299916/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -239,14 +276,17 @@
       "odometer_km": 14686,
       "year": 2021,
       "make": "Buick",
-      "model": "Encore GX Essence GX ST",
-      "condition": "used"
+      "model": "Encore GX",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Audi A5 Sportback Progressiv Quattro | No Accidents | Low KM | CarPl",
       "vin": "WAUFACF50NA017231",
       "stock": "M4748",
       "color": "Grey",
+      "trim": "Sportback Progressiv Quattro",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/9501b5d4efec.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/audi/a5-sportback/surrey/bc/71053024/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/audi/a5-sportback/surrey/bc/71053024/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,14 +296,17 @@
       "odometer_km": 70072,
       "year": 2022,
       "make": "Audi",
-      "model": "A5 Sportback Progressiv Quattro",
-      "condition": "used"
+      "model": "A5",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Mustang Mach-E Premium AWD | No Accidents | 446km Range",
       "vin": "3FMTK3SU8NMA08243",
       "stock": "M4768A",
       "color": "Grey",
+      "trim": "Premium",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/f0b245337048.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/ford/mustang-mach-e/surrey/bc/71278236/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/ford/mustang-mach-e/surrey/bc/71278236/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -273,14 +316,17 @@
       "odometer_km": 83653,
       "year": 2022,
       "make": "Ford",
-      "model": "Mustang Mach-E Premium AWD",
-      "condition": "used"
+      "model": "Mustang Mach-E",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Kona Essential AWD | No Accidents | CarPlay",
       "vin": "KM8K1CAB4NU799624",
       "stock": "N0004",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a38381940286.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/hyundai/kona/surrey/bc/70941314/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/hyundai/kona/surrey/bc/70941314/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -290,14 +336,17 @@
       "odometer_km": 69888,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Kona Essential AWD",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Santa Fe Urban AWD | No Accidents | Leather Interior",
       "vin": "5NMS3DALXNH383890",
       "stock": "SY66186",
       "color": "Red",
+      "trim": "Urban",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/64691b6ef988.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/hyundai/santa-fe/surrey/bc/71228011/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/hyundai/santa-fe/surrey/bc/71228011/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -307,8 +356,10 @@
       "odometer_km": 63966,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Santa Fe Urban AWD",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson ",
@@ -325,13 +376,16 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 Signature AWD | No Accidents | 360 Cameras",
       "vin": "JM3KFBEY7N0532734",
       "stock": "M4719C",
       "color": "Red",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/4c5eb8da5c80.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/mazda/cx-5/surrey/bc/71338596/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2022/mazda/cx-5/surrey/bc/71338596/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -341,8 +395,10 @@
       "odometer_km": 64815,
       "year": 2022,
       "make": "Mazda",
-      "model": "CX-5 Signature AWD",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Jetta Sedan ",
@@ -359,13 +415,16 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Jetta Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Charger GT RWD | No Accidents | Only 23,000km",
       "vin": "2C3CDXHG1PH683736",
       "stock": "SH69020",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/14dc4196b31c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/dodge/charger/surrey/bc/71267009/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/dodge/charger/surrey/bc/71267009/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -375,14 +434,17 @@
       "odometer_km": 23412,
       "year": 2023,
       "make": "Dodge",
-      "model": "Charger GT RWD",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 SuperCrew XLT 302A | Low KM | FX4",
       "vin": "1FTFW1E88PKD73394",
       "stock": "M4764",
       "color": "White",
+      "trim": "XLT 302A",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/7d64e6a71525.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/ford/f-150-supercrew/surrey/bc/71236253/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/ford/f-150-supercrew/surrey/bc/71236253/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -392,14 +454,17 @@
       "odometer_km": 42102,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 SuperCrew XLT 302A",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee Altitude 4WD | No Accidents | CarPlay",
       "vin": "1C4PJMMB0PD108152",
       "stock": "TC68804",
       "color": "Grey",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/dc643ce252c0.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/jeep/cherokee/surrey/bc/71278239/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/jeep/cherokee/surrey/bc/71278239/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -409,8 +474,10 @@
       "odometer_km": 131807,
       "year": 2023,
       "make": "Jeep",
-      "model": "Cherokee Altitude 4WD",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Carnival ",
@@ -427,7 +494,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos ",
@@ -444,13 +513,16 @@
       "year": 2023,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Electric Ultimate | ONLY 6,500KMS | Certified | White Rock",
       "vin": "KM8HE3A67RU017274",
       "stock": "KE62251",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/e664ea3729f1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/kona-electric/surrey/bc/71025017/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/kona-electric/surrey/bc/71025017/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -460,14 +532,17 @@
       "odometer_km": 6518,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Kona Electric Ultimate",
-      "condition": "used"
+      "model": "Kona Electric",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe Luxury AWD | No Accidents | Certified",
       "vin": "5NMP4DGL2RH025229",
       "stock": "M4760",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/e5a3b6177ea8.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/santa-fe/surrey/bc/71225273/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/santa-fe/surrey/bc/71225273/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -477,14 +552,17 @@
       "odometer_km": 40290,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Santa Fe Luxury AWD",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Hybrid Ultimate AWD | One Owner | 360 Camera",
       "vin": "KM8JCCD16RU174964",
       "stock": "M4775",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/e3b1f3138ffc.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/tucson-hybrid/surrey/bc/71345662/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/hyundai/tucson-hybrid/surrey/bc/71345662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -494,14 +572,17 @@
       "odometer_km": 52876,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "used"
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee L Limited | 360 Camera | Pano Sunroof",
       "vin": "1C4RJKBG2R8542306",
       "stock": "M4767",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/b50903b25ba3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/jeep/grand-cherokee-l/surrey/bc/71236242/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/jeep/grand-cherokee-l/surrey/bc/71236242/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -511,14 +592,17 @@
       "odometer_km": 65494,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee L Limited",
-      "condition": "used"
+      "model": "Grand Cherokee L",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee L Limited 4WD | No Accidents | 6 Passenger",
       "vin": "1C4RJKBG9R8560348",
       "stock": "M4766",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/dd8018d31e88.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/jeep/grand-cherokee-l/surrey/bc/71236247/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/jeep/grand-cherokee-l/surrey/bc/71236247/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,14 +612,17 @@
       "odometer_km": 71420,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee L Limited 4WD",
-      "condition": "used"
+      "model": "Grand Cherokee L",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa SR | No Accidents | CarPlay | White Rock",
       "vin": "3N1CN8FV7RL850971",
       "stock": "M4743",
       "color": "White",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/e4a40b753461.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/nissan/versa/surrey/bc/71025016/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/nissan/versa/surrey/bc/71025016/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -545,14 +632,17 @@
       "odometer_km": 62440,
       "year": 2024,
       "make": "Nissan",
-      "model": "Versa SR",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf R Base AWD | Manual | No Accidents | White Rock",
       "vin": "WVWFB7CD5RW211622",
       "stock": "M4709",
       "color": "Blue",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a42fe1b458d6.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/golf-r/surrey/bc/70756106/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/golf-r/surrey/bc/70756106/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -562,14 +652,17 @@
       "odometer_km": 16876,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Golf R Base AWD",
-      "condition": "used"
+      "model": "Golf R",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Highline AWD | No Accidents | Ventilated Seats",
       "vin": "3VV4X7B29RM013443",
       "stock": "M4737",
       "color": "Grey",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/08e32e9e47a5.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/taos/surrey/bc/71017606/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/taos/surrey/bc/71017606/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -579,14 +672,17 @@
       "odometer_km": 49277,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Highline AWD",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Comfortline | Low KM | No Accidents | CarPlay",
       "vin": "3VVEX7B28RM026334",
       "stock": "M4747",
       "color": "Grey",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a891ceada001.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/taos/surrey/bc/71039717/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2024/volkswagen/taos/surrey/bc/71039717/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -596,14 +692,17 @@
       "odometer_km": 57404,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 Premium Quattro | No Accidents | Pano Roof | White",
       "vin": "WA1AUCF39S1079543",
       "stock": "M4699",
       "color": "White",
+      "trim": "Premium Quattro",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a5dd65e0ea97.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/audi/q3/surrey/bc/70647240/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/audi/q3/surrey/bc/70647240/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -613,14 +712,17 @@
       "odometer_km": 28390,
       "year": 2025,
       "make": "Audi",
-      "model": "Q3 Premium Quattro",
-      "condition": "used"
+      "model": "Q3",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q5 2.0T Technik Quattro | No Accidents | Low KM",
       "vin": "WA16AAGUXS2018304",
       "stock": "M4772",
       "color": "Blue",
+      "trim": "2.0T Technik Quattro",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/ae64903b599d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/audi/q5/surrey/bc/71284165/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/audi/q5/surrey/bc/71284165/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -630,14 +732,17 @@
       "odometer_km": 21258,
       "year": 2025,
       "make": "Audi",
-      "model": "Q5 2.0T Technik Quattro",
-      "condition": "used"
+      "model": "Q5",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 Crew Cab LT1",
       "vin": "2GCUKDED0S1148493",
       "stock": "M4780",
       "color": "Grey",
+      "trim": "LT1",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/1551debf5616.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/chevrolet/silverado-1500-crew-cab/surrey/bc/71352951/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/chevrolet/silverado-1500-crew-cab/surrey/bc/71352951/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,14 +752,17 @@
       "odometer_km": 73098,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab LT1",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Cruz Preferred AWD | Certified | No Accidents | White R",
       "vin": "5NTJCDDF4SH142568",
       "stock": "M4729",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/1b9b5e5f8321.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/santa-cruz/surrey/bc/70967272/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/santa-cruz/surrey/bc/70967272/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -664,14 +772,17 @@
       "odometer_km": 42800,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Santa Cruz Preferred AWD",
-      "condition": "used"
+      "model": "Santa Cruz",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe Luxury AWD | Certified | Dual Sunroof | White Rock",
       "vin": "5NMP4DGL0SH125884",
       "stock": "M4745",
       "color": "Blue",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/b888f4e7ec63.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/santa-fe/surrey/bc/71029037/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/santa-fe/surrey/bc/71029037/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -681,14 +792,17 @@
       "odometer_km": 50220,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Santa Fe Luxury AWD",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue Preferred | CarPlay | Certified | White Rock",
       "vin": "KMHRC8A33SU354155",
       "stock": "M4697",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/374205ef153d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/venue/surrey/bc/70647237/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/venue/surrey/bc/70647237/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -698,14 +812,17 @@
       "odometer_km": 42728,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Venue Preferred",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue Preferred | Certified | CarPlay | Low KM",
       "vin": "KMHRC8A37SU397137",
       "stock": "M4763",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/9d50a1e980dc.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/venue/surrey/bc/71225266/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/hyundai/venue/surrey/bc/71225266/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -715,14 +832,17 @@
       "odometer_km": 31152,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Venue Preferred",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue SV AWD | No Accidents | CarPlay | Heated Seats",
       "vin": "JN8BT3BB7SW163698",
       "stock": "M4735",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/342d11af518e.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/rogue/surrey/bc/71006659/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/rogue/surrey/bc/71006659/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -732,14 +852,17 @@
       "odometer_km": 67210,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue SV AWD",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa SV | No Accidents | CarPlay | White Rock",
       "vin": "3N1CN8EV3SL863241",
       "stock": "M4727",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/52b426839f26.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/versa/surrey/bc/70959436/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/versa/surrey/bc/70959436/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -749,14 +872,17 @@
       "odometer_km": 29096,
       "year": 2025,
       "make": "Nissan",
-      "model": "Versa SV",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa SV | Fuel Efficient | Low KM | White Rock",
       "vin": "3N1CN8EV1SL863352",
       "stock": "M4742",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/c682340a2b17.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/versa/surrey/bc/71025018/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/nissan/versa/surrey/bc/71025018/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -766,14 +892,17 @@
       "odometer_km": 32910,
       "year": 2025,
       "make": "Nissan",
-      "model": "Versa SV",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline AWD | No Accidents | CarPlay | White R",
       "vin": "3VVUC7B24SM080579",
       "stock": "M4724",
       "color": "Black",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/0b92b73e0111.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/volkswagen/taos/surrey/bc/70935764/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/volkswagen/taos/surrey/bc/70935764/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,14 +912,17 @@
       "odometer_km": 38875,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline AWD",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline Black Edition AWD | No Accidents | Low",
       "vin": "3VV2C7B22SM041674",
       "stock": "M4740",
       "color": "Black",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/9f989608dfc7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/volkswagen/taos/surrey/bc/71022591/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2025/volkswagen/taos/surrey/bc/71022591/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -800,14 +932,17 @@
       "odometer_km": 49418,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Edition AWD",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Preferred w/ Trend AWD | No Accidents | Low KM",
       "vin": "KM8HCCAB0TU364312",
       "stock": "TH68943",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/86250453d542.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/71327759/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/71327759/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -817,8 +952,10 @@
       "odometer_km": 24221,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred w/ Trend AWD",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -834,13 +971,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid LUXURY",
       "vin": "KMHLN4DJ3TU207063",
       "stock": "EH67063",
       "color": "Grey",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/cac49722c416.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71282895/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71282895/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,14 +990,17 @@
       "odometer_km": 54,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid LUXURY",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid LUXURY",
       "vin": "KMHLN4DJ2TU222458",
       "stock": "EH62458",
       "color": "Red",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/8fa31b44d4a0.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71289514/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71289514/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -867,14 +1010,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid LUXURY",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
       "vin": "KMHLN4DJ5TU224396",
       "stock": "EH64396",
       "color": "Blue",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4a03d07c068f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71383613/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71383613/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -884,14 +1030,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N LINE ULTIMATE",
       "vin": "KMHLR4DF2TU239440",
       "stock": "EL69440",
       "color": "White",
+      "trim": "N N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5d5629d4c605.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70436210/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70436210/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -901,14 +1050,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG7TU159168",
       "stock": "EL69168",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/1d011220b925.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69252734/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69252734/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -918,14 +1070,17 @@
       "odometer_km": 40,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG9TU188011",
       "stock": "EL68011",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7e8cf436431f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69641717/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69641717/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -935,14 +1090,17 @@
       "odometer_km": 59,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DGXTU178278",
       "stock": "EL68278",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/24c74bb2bd27.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69665384/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69665384/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -952,14 +1110,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
       "vin": "KMHLN4DG6TU186164",
       "stock": "EL66164",
       "color": "White",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/0ca18c194505.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69782599/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69782599/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -969,14 +1130,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra LUXURY",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG5TU203247",
       "stock": "EL63247",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/0d7815c37346.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69826454/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/69826454/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -986,14 +1150,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG4TU220220",
       "stock": "EL60220",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/1a5ea67ea1ed.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70313010/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70313010/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1003,14 +1170,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG5TU243800",
       "stock": "EL63800",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7f53a91e7932.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488705/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488705/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1020,14 +1190,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DGXTU246126",
       "stock": "EL66126",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ac75fba84e26.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488706/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488706/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,14 +1210,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG4TU246106",
       "stock": "EL66106",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d9713cbe33b6.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488708/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70488708/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1054,14 +1230,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG3TU256299",
       "stock": "EL66299",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/83a68c9df849.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70670944/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70670944/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1071,14 +1250,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG0TU256244",
       "stock": "EL66244",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4fcab70d40cd.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70670949/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70670949/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1088,14 +1270,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG1TU267155",
       "stock": "EL67155",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/41634723bd59.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70814900/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70814900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1105,14 +1290,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG8TU267170",
       "stock": "EL67170",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/52196559a65d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70814901/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70814901/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1122,14 +1310,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
       "vin": "KMHLM4DG7TU276538",
       "stock": "EL66538",
       "color": "White",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bbe61a1fd528.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70876453/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70876453/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1139,14 +1330,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra ESSENTIAL",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w-Tech Pkg",
       "vin": "KMHLM4DG6TU277048",
       "stock": "EL67048",
       "color": "Blue",
+      "trim": "Preferred IVT w-Tech Pkg",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a81ff5900327.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70876464/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/70876464/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,14 +1350,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w-Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG8TU289833",
       "stock": "EL69833",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/902eee029e77.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71135386/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71135386/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1173,14 +1370,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG3TU286239",
       "stock": "EL66239",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6530073b251b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71149478/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71149478/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1190,14 +1390,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG0TU286411",
       "stock": "EL66411",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/640ffb32fe4c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71179775/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71179775/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1207,14 +1410,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG6TU123908",
       "stock": "EL63908",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d5d579b22ee1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71333692/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71333692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1224,14 +1430,17 @@
       "odometer_km": 9660,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
       "vin": "KMHLN4DG5TU299183",
       "stock": "EL69183",
       "color": "Blue",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/799769660ff1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71344577/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/elantra/surrey/bc/71344577/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1241,14 +1450,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra LUXURY",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
       "vin": "KM8KNDDC3TU399209",
       "stock": "IV69209",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/c1389a51256c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/71011685/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/71011685/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1258,14 +1470,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5 PREFERRED",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 PREFERRED +",
       "vin": "KM8MYFS54TA019232",
       "stock": "IN69232",
       "color": "Grey",
+      "trim": "PREFERRED +",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/cd6bb26e50f2.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/69578439/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/69578439/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1275,14 +1490,17 @@
       "odometer_km": 43,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 PREFERRED +",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 PREFERRED +",
       "vin": "KM8MYFS55TA019269",
       "stock": "IN69269",
       "color": "Blue",
+      "trim": "PREFERRED +",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e70e872fc387.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/69967745/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/69967745/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1292,14 +1510,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 PREFERRED +",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A60TU039799",
       "stock": "KE69799",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/eadd3e75f9c3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/69537861/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/69537861/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1309,14 +1530,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A65TU040916",
       "stock": "KE60916",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bfd71b2508ea.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70053538/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70053538/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1326,14 +1550,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HD3A63TU042425",
       "stock": "KE62425",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6f6fd2f70403.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70500862/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70500862/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1343,14 +1570,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HD3A66TU042967",
       "stock": "KE62967",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/57d6ad376003.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70583064/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70583064/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1360,14 +1590,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HC3A62TU046050",
       "stock": "KE66050",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d00b025a0a41.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70802644/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70802644/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1377,14 +1610,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A66TU044862",
       "stock": "KE64862",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e02a3902c1a0.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70864766/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70864766/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1394,14 +1630,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A60TU044887",
       "stock": "KE64887",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e5ced670f7ff.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70864767/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70864767/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1411,14 +1650,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A61TU047930",
       "stock": "KE67930",
       "color": "Green",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/347cbaa4709d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/71149480/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona-electric/surrey/bc/71149480/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1428,14 +1670,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
       "vin": "KM8HACA31TU438447",
       "stock": "KN68447",
       "color": "Black",
+      "trim": "N LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/309e570b5752.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69232387/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69232387/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1445,14 +1690,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB2TU406432",
       "stock": "KN66432",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/c70a4d2535b9.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69504623/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69504623/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1462,14 +1710,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB1TU450082",
       "stock": "KN60082",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/eedd11e0f28b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69589855/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69589855/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1479,14 +1730,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA34TU463332",
       "stock": "KN63332",
       "color": "Black",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a23ff7c37d08.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69943369/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69943369/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1496,14 +1750,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA36TU463249",
       "stock": "KN63249",
       "color": "Black",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/60837cbd332f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69943371/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/69943371/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1770,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB3TU474447",
       "stock": "KN64447",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/adf400f9633d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70109886/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70109886/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1530,14 +1790,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB3TU471595",
       "stock": "KN61595",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/44cd8eb99426.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70186503/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70186503/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1547,14 +1810,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
       "vin": "KM8HACA37TU481514",
       "stock": "KN61514",
       "color": "Green",
+      "trim": "N LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/52e948954335.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70241552/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70241552/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1564,14 +1830,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB5TU480119",
       "stock": "KN60119",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bbbb28aa5c98.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70299588/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70299588/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1581,14 +1850,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HB3AB9TU477761",
       "stock": "KN67761",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/c012ec40a33a.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345089/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345089/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1598,14 +1870,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
       "vin": "KM8HBCAB6TU478849",
       "stock": "KN68849",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/563b0c74fc0f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345092/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345092/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1615,14 +1890,17 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
       "vin": "KM8HACA38TU478041",
       "stock": "KN68041",
       "color": "Black",
+      "trim": "N LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4043aa0474e0.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345093/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70345093/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1632,14 +1910,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
       "vin": "KM8HACA30TU486697",
       "stock": "KN66697",
       "color": "Green",
+      "trim": "N LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/145f9b76e61c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70384605/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70384605/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1649,14 +1930,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
       "vin": "KM8HACA39TU486830",
       "stock": "KN66830",
       "color": "Green",
+      "trim": "N LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d55378ba0961.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70384613/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/kona/surrey/bc/70384613/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1666,14 +1950,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N LINE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES29TU109217",
       "stock": "PS69217",
       "color": "Green",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d3ab8608f9fd.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/69889673/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/69889673/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1683,14 +1970,17 @@
       "odometer_km": 8471,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES2XTU121957",
       "stock": "PS61957",
       "color": "Green",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ae81fb359238.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70299586/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70299586/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1700,14 +1990,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES28TU133833",
       "stock": "PS63833",
       "color": "Green",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/83e70256f94c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70691244/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70691244/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1717,14 +2010,17 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES23TU133724",
       "stock": "PS63724",
       "color": "Black",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/76b1954e73d5.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70691246/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70691246/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1734,14 +2030,17 @@
       "odometer_km": 31,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES21TU133463",
       "stock": "PS63463",
       "color": "White",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d085a56723ec.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70729992/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70729992/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1751,14 +2050,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES26TU136147",
       "stock": "PS66147",
       "color": "Green",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/048bd0dea68e.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70751927/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70751927/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1768,14 +2070,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES2XTU132960",
       "stock": "PS62960",
       "color": "White",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/685f9e3f34a4.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763783/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763783/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1785,14 +2090,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES29TU135980",
       "stock": "PS65980",
       "color": "White",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/c2ce8177e3ef.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763784/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763784/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1802,14 +2110,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMES28TU136294",
       "stock": "PS66294",
       "color": "Grey",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b3b0d150add8.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763785/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/palisade/surrey/bc/70763785/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1819,14 +2130,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG16TU186416",
       "stock": "SY66416",
       "color": "White",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/196a07e8b80e.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/69994498/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/69994498/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1836,14 +2150,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid LUXURY",
       "vin": "KM8P3DG11TU197359",
       "stock": "SY67359",
       "color": "Black",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f7a04d18abe7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70299584/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70299584/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1853,14 +2170,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid LUXURY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid LUXURY",
       "vin": "KM8P3DG13TU197377",
       "stock": "SY67377",
       "color": "Black",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/23890bb1d959.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70299587/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70299587/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1870,14 +2190,17 @@
       "odometer_km": 48,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid LUXURY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
       "vin": "KM8P2DG17TU202048",
       "stock": "SY62048",
       "color": "Brown",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a5a72f61b9ce.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70488709/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70488709/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1887,14 +2210,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid PREFERRED",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
       "vin": "KM8P2DG15TU202422",
       "stock": "SY62422",
       "color": "Brown",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/9807128839d3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70488711/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70488711/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1904,14 +2230,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid PREFERRED",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
       "vin": "KM8P3DG17TU206016",
       "stock": "SY66016",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5e07de327e5e.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70670946/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70670946/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1921,14 +2250,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid PREFERRED",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG11TU205714",
       "stock": "SY65714",
       "color": "Black",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/51502f714408.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70691248/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70691248/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1938,14 +2270,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG13TU207934",
       "stock": "SY67934",
       "color": "Black",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/23ffda9765ee.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70713058/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70713058/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1955,14 +2290,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid LUXURY",
       "vin": "KM8P3DG1XTU213512",
       "stock": "SY63512",
       "color": "Black",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ceef1809ae93.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71282897/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71282897/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1972,14 +2310,17 @@
       "odometer_km": 91,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid LUXURY",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG12TU202085",
       "stock": "SY62085",
       "color": "Brown",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/0086ce530c0a.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71373585/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71373585/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1989,14 +2330,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
       "vin": "KM8P3DG18TU205134",
       "stock": "SY65134",
       "color": "Black",
+      "trim": "Preferred w-Trend Pkg",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/2cae8d775e65.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71373586/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/71373586/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2006,14 +2350,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid PREFERRED-TREND",
       "vin": "KMHL34JJ6TA188875",
       "stock": "SH68875",
       "color": "Blue",
+      "trim": "PREFERRED-TREND",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/232256ddbbce.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/sonata-hybrid/surrey/bc/71135382/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/sonata-hybrid/surrey/bc/71135382/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2023,14 +2370,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid PREFERRED-TREND",
-      "condition": "new"
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD10TU423322",
       "stock": "TH63322",
       "color": "Silver",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7e6bb34872aa.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68632502/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68632502/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2040,14 +2390,17 @@
       "odometer_km": 146,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD15TU425311",
       "stock": "TH65311",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/9fef5d7455ee.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68825762/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68825762/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2057,14 +2410,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD10TU428214",
       "stock": "TH68214",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/dfece9cac6fb.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68866030/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/68866030/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,14 +2430,17 @@
       "odometer_km": 38,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD11TU440954",
       "stock": "TH60954",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/208e278f5894.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69121952/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69121952/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2091,14 +2450,17 @@
       "odometer_km": 54,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD18TU459002",
       "stock": "TH69002",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7c4f0fe3dd16.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69493537/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69493537/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2108,14 +2470,17 @@
       "odometer_km": 49,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD17TU428212",
       "stock": "TH68212",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/fdb591247c56.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504621/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504621/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2125,14 +2490,17 @@
       "odometer_km": 5702,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD16TU424197",
       "stock": "TH64197",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3fc5b755e470.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504627/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504627/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2142,14 +2510,17 @@
       "odometer_km": 6777,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD12TU428540",
       "stock": "TH68540",
       "color": "White",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e786e62521b1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504632/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69504632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2159,14 +2530,17 @@
       "odometer_km": 8159,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD18TU463325",
       "stock": "TH63325",
       "color": "Red",
+      "trim": "N-LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/233d2579acae.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69589854/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69589854/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2176,14 +2550,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-LINE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD10TU462508",
       "stock": "TH62508",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/06125428523d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69641718/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69641718/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2193,14 +2570,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD14TU466643",
       "stock": "TH66643",
       "color": "Red",
+      "trim": "N-LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/2078b1338e1c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69665380/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/69665380/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2210,14 +2590,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-LINE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD16TU482181",
       "stock": "TH62181",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e1fed6032ddb.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70086927/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70086927/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2227,14 +2610,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD12TU486664",
       "stock": "TH66664",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f6cfd34f4cae.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70109882/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70109882/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2244,14 +2630,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD13TU498161",
       "stock": "TH68161",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a1f27a33b7f3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384602/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384602/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2261,14 +2650,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD18TU499452",
       "stock": "TH69452",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b61ff5993c5c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384607/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384607/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2278,14 +2670,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD1XTU498223",
       "stock": "TH68223",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/99b7bde620df.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384609/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384609/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2295,14 +2690,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD10TU497601",
       "stock": "TH67601",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/fd2d91b2c7f6.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384610/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384610/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2312,14 +2710,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD19TU498049",
       "stock": "TH68049",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/aa1a22363439.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384611/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384611/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2329,14 +2730,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD15TU497304",
       "stock": "TH67304",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3a754c0dc62f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384614/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70384614/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2346,14 +2750,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD17TU497319",
       "stock": "TH67319",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e6573bc2f40c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397183/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397183/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2363,14 +2770,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD19TU497788",
       "stock": "TH67788",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4237496cbecf.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397185/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397185/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2380,14 +2790,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD11TU496036",
       "stock": "TH66036",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b01ab465c3d3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397188/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70397188/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2397,14 +2810,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
       "vin": "KM8JBDD12TU503627",
       "stock": "TH63627",
       "color": "Grey",
+      "trim": "NIGHT EDITION",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ff0e1efccfa1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70448833/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70448833/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2414,14 +2830,17 @@
       "odometer_km": 3491,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid NIGHT EDITION",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD15TU496931",
       "stock": "TH66931",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/fef4d78d5f81.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70583071/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70583071/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2431,14 +2850,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
       "vin": "KM8JBDD12TU505443",
       "stock": "TH65443",
       "color": "Grey",
+      "trim": "NIGHT EDITION",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5322f178cf0c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70763788/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70763788/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2448,14 +2870,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid NIGHT EDITION",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD14TU422478",
       "stock": "TH62478",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bde98ecd2614.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70999456/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70999456/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2465,14 +2890,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD17TU527841",
       "stock": "TH67841",
       "color": "White",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bdf404c16ff6.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71110507/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71110507/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2482,14 +2910,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD13TU528100",
       "stock": "TH68100",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/385979b2b029.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71123049/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71123049/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2499,14 +2930,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD13TU530347",
       "stock": "TH60347",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5c20af073005.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71123051/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71123051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2516,14 +2950,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD10TU528104",
       "stock": "TH68104",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4e736c140b4b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135379/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135379/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2533,14 +2970,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD15TU529541",
       "stock": "TH69541",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f4308d7bcc84.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135380/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135380/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2550,14 +2990,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD19TU529526",
       "stock": "TH69526",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e7c4c9ac54b7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135381/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135381/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2567,14 +3010,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD14TU528106",
       "stock": "TH68106",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5a2d23111ca7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135383/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135383/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2584,14 +3030,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD12TU527102",
       "stock": "TH67102",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/94cbdde6126c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135384/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135384/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2601,14 +3050,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD12TU530405",
       "stock": "TH60405",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/911c89024ff2.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135387/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135387/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2618,14 +3070,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD11TU529505",
       "stock": "TH69505",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6304ad741962.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135388/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135388/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2635,14 +3090,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD14TU528123",
       "stock": "TH68123",
       "color": "White",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/15852d4762db.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135389/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135389/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2652,14 +3110,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD18TU528092",
       "stock": "TH68092",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d718a73d8037.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135391/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71135391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2669,14 +3130,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD18TU528240",
       "stock": "TH68240",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bff45bcc0db7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71179773/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71179773/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2686,14 +3150,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
       "vin": "KM8JBDD11TU525134",
       "stock": "TH65134",
       "color": "Black",
+      "trim": "NIGHT EDITION",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/714c7014c2df.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71208686/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71208686/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2703,14 +3170,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid NIGHT EDITION",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD14TU526453",
       "stock": "TH66453",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/175cb0b8487f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71208689/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71208689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2720,14 +3190,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid ULTIMATE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD17TU536409",
       "stock": "TH66409",
       "color": "Black",
+      "trim": "N-LINE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b9682935f53c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71344573/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71344573/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2737,14 +3210,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-LINE",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate AWD",
       "vin": "KM8JDDD26TU533376",
       "stock": "TP63376",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/caa9323334a9.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-plug-in-hybrid/surrey/bc/71383614/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson-plug-in-hybrid/surrey/bc/71383614/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2754,14 +3230,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "3KMJCCDE7TE036456",
       "stock": "TC66456",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/64a620c1f13b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347310/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347310/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2771,14 +3250,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "3KMJBCDEXTE038768",
       "stock": "TC68768",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/01ad598d096f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347316/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347316/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2788,14 +3270,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE9TU467333",
       "stock": "TC67333",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a65e17c76ebf.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347317/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347317/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2805,14 +3290,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "3KMJBCDEXTE037930",
       "stock": "TC67930",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/98b800cf7a67.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347320/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69347320/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2822,14 +3310,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "3KMJCCDE3TE039385",
       "stock": "TC69385",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4521d522fbac.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69403636/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69403636/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2839,14 +3330,17 @@
       "odometer_km": 41,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "3KMJCCDE7TE036277",
       "stock": "TC66277",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5f4e193495eb.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69493539/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/69493539/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2856,14 +3350,17 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE8TU486181",
       "stock": "TC66181",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b370e8e72b32.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70567518/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70567518/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2873,14 +3370,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE9TU487100",
       "stock": "TC67100",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/cf28ccccbc84.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70670943/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70670943/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2890,14 +3390,17 @@
       "odometer_km": 49,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE1TU488080",
       "stock": "TC68080",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/70dca9d00f9f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70713061/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70713061/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2907,14 +3410,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE0TU488085",
       "stock": "TC68085",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/fc79fca192cb.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70751928/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70751928/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2924,14 +3430,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JBCDEXTU488324",
       "stock": "TC68324",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5c67c814f8a2.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70790885/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70790885/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2941,14 +3450,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JBCDE7TU488216",
       "stock": "TC68216",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5a7bd8a3b015.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70790887/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70790887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2958,14 +3470,17 @@
       "odometer_km": 29,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE8TU492465",
       "stock": "TC62465",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/e935c80512d3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70876467/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/70876467/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2975,14 +3490,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JBCDE5TU493978",
       "stock": "TC63978",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/31497abe6d8d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135385/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135385/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2992,14 +3510,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JBCDEXTU495791",
       "stock": "TC65791",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/55ef19efcd25.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135392/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135392/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3009,14 +3530,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JCCDE1TU494428",
       "stock": "TC64428",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f3d018ff6db1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135393/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135393/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3026,14 +3550,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
       "vin": "KM8JBCDE6TU493987",
       "stock": "TC63987",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7eb2ef9c492b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135395/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/tucson/surrey/bc/71135395/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3043,14 +3570,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson PREFERRED",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ULTIMATE",
       "vin": "KMHRC8A33TU476791",
       "stock": "VE66791",
       "color": "Blue",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/22a9335f2d92.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70384603/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70384603/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3060,14 +3590,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue ULTIMATE",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ULTIMATE",
       "vin": "KMHRC8A31TU476739",
       "stock": "VE66739",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/379ca805eee9.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70384612/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70384612/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3077,14 +3610,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue ULTIMATE",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A33TU485426",
       "stock": "VE65426",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/7ff62deceeb7.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70691245/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/hyundai/venue/surrey/bc/70691245/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3094,14 +3630,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue PREFERRED",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4Matic | CarPlay | Low KM | Sunroof",
       "vin": "W1N4N4HB2TJ761510",
       "stock": "M4611",
       "color": "White",
+      "trim": "250 4Matic",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/d5797a7822af.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/mercedes-benz/gla/surrey/bc/69864845/?sale_class=used",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2026/mercedes-benz/gla/surrey/bc/69864845/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3111,14 +3650,17 @@
       "odometer_km": 28101,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4Matic",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC0VU425790",
       "stock": "IV75790",
       "color": "Black",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4f5bc34f6937.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71344564/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71344564/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3128,14 +3670,17 @@
       "odometer_km": 13,
       "year": 2027,
       "make": "Hyundai",
-      "model": "IONIQ 5 ULTIMATE",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Preferred AWD",
       "vin": "KM8KNDDC7VU425698",
       "stock": "IV75698",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d37f80c43c10.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71395016/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71395016/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3145,14 +3690,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Hyundai",
-      "model": "IONIQ 5 Preferred AWD",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
       "vin": "KM8KRDDC7VU425379",
       "stock": "IV75379",
       "color": "Green",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3dc54c9e5227.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71395019/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-5/surrey/bc/71395019/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3162,14 +3710,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Hyundai",
-      "model": "IONIQ 5 Ultimate AWD",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 9 ULTIMATE",
       "vin": "KM8MYFS56VA029666",
       "stock": "IN79666",
       "color": "Grey",
+      "trim": "ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d1a9de2e66b3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-9/surrey/bc/71179779/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/ioniq-9/surrey/bc/71179779/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3179,14 +3730,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Hyundai",
-      "model": "IONIQ 9 ULTIMATE",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA34VU511334",
       "stock": "KN71334",
       "color": "Green",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5900f308697b.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876454/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876454/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3196,14 +3750,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HB3AB4VU513715",
       "stock": "KN73715",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/66ef63027b70.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876457/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876457/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3213,14 +3770,17 @@
       "odometer_km": 8,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA3XVU511449",
       "stock": "KN71449",
       "color": "Blue",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/875c5709ba6c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876459/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/70876459/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3230,14 +3790,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
       "vin": "KM8HA3AB0VU513620",
       "stock": "KN73620",
       "color": "Black",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/b22b1480dbab.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051580/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051580/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3247,14 +3810,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona ESSENTIAL",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA3XVU512018",
       "stock": "KN72018",
       "color": "White",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/49f0e4a10a2a.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051581/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051581/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3264,14 +3830,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
       "vin": "KM8HA3ABXVU513608",
       "stock": "KN73608",
       "color": "Black",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/1187ed86d090.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051583/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051583/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3281,14 +3850,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona ESSENTIAL",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA36VU511755",
       "stock": "KN71755",
       "color": "Green",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/58d5d128ce21.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051584/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71051584/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3298,14 +3870,17 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA3XVU511421",
       "stock": "KN71421",
       "color": "Blue",
+      "trim": "N LINE ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6b722bc62e3f.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71064112/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71064112/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3315,14 +3890,17 @@
       "odometer_km": 14,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N LINE ULTIMATE",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HB3AB7VU513868",
       "stock": "KN73868",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/219576b3cf3a.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71064113/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71064113/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3332,14 +3910,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB4VU521472",
       "stock": "KN71472",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/facf1484cf39.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71135378/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71135378/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3349,14 +3930,17 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB7VU521482",
       "stock": "KN71482",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/50d5e79a4907.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71135390/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71135390/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3366,14 +3950,17 @@
       "odometer_km": 11,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HCCAB0VU521971",
       "stock": "KN71971",
       "color": "Green",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3ea539b4a379.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71149444/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71149444/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3383,14 +3970,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
       "vin": "KM8HACAB2VU515417",
       "stock": "KN75417",
       "color": "Grey",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5191a0e2d3e4.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71208688/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71208688/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3400,14 +3990,17 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona ESSENTIAL",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferred FWD",
       "vin": "KM8HC3A64VU048806",
       "stock": "KE78806",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/0c2c2c0c3458.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71395015/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71395015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3417,14 +4010,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred FWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferred FWD",
       "vin": "KM8HC3A67VU048833",
       "stock": "KE78833",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f48642bade6d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71395018/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/kona/surrey/bc/71395018/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3434,14 +4030,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred FWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid LUXURY",
       "vin": "KM8RKESA9VU126678",
       "stock": "PH76678",
       "color": "Blue",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3cfd0303043d.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71135394/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71135394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3451,14 +4050,17 @@
       "odometer_km": 14,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid LUXURY",
-      "condition": "new"
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night AWD",
       "vin": "KM8RMESA4VU135685",
       "stock": "PH75685",
       "color": "Black",
+      "trim": "Ultimate Calligraphy Night",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/bfe7a5433181.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71395017/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71395017/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3468,14 +4070,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid Ultimate Calligraphy Night AWD",
-      "condition": "new"
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade XRT PRO",
       "vin": "KM8RJES20VU142652",
       "stock": "PS72652",
       "color": "Black",
+      "trim": "XRT PRO",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/8f39366e3764.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade/surrey/bc/71232512/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/palisade/surrey/bc/71232512/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3485,14 +4090,17 @@
       "odometer_km": 17,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade XRT PRO",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe LUXURY",
       "vin": "KM8P3DG15VU218751",
       "stock": "SY78751",
       "color": "White",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d4c1748f38e1.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71110506/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71110506/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3502,14 +4110,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe LUXURY",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe LUXURY",
       "vin": "KM8P3DG1XVU218826",
       "stock": "SY78826",
       "color": "Green",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3f5c92e2a240.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71123047/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71123047/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3519,14 +4130,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe LUXURY",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG18VU218799",
       "stock": "SY78799",
       "color": "White",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/f118b1f7fd70.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71123048/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71123048/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3536,14 +4150,17 @@
       "odometer_km": 17,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG18VU219225",
       "stock": "SY79225",
       "color": "Black",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ec9c1a3b470c.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71179776/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71179776/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3553,14 +4170,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG19VU220139",
       "stock": "SY70139",
       "color": "Green",
+      "trim": "ULTIMATE CALLIGRAPHY",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/a7cdd9c36ce3.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232511/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232511/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3570,14 +4190,17 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe ULTIMATE CALLIGRAPHY",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe PREFERRED",
       "vin": "KM8P3DG19VU220177",
       "stock": "SY70177",
       "color": "Green",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/104a3bddf860.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232513/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232513/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3587,14 +4210,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe PREFERRED",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe PREFERRED",
       "vin": "KM8P3DG14VU219566",
       "stock": "SY79566",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/26ac4e2f1ba5.html",
       "source_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232514/?sale_class=new",
       "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71232514/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3604,8 +4230,10 @@
       "odometer_km": 13,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe PREFERRED",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
