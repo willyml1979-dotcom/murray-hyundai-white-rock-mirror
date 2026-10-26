@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-10-25T18:00:37",
+  "generated_at": "2026-10-25T18:31:36",
   "vehicle_count": 192,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -765,7 +765,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 5 Preferred RWD Long Range",
+      "name": "2026 Hyundai IONIQ 5 PREFERRED",
       "vin": "KM8KN4DAXTU404307",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5edbddfa5ab7.html",
       "year": 2026,
@@ -1480,7 +1480,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
+      "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD11TU541704",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5df1f6a9596e.html",
       "year": 2026,
@@ -1491,7 +1491,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
+      "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD1XTU541684",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3ab435b5b767.html",
       "year": 2026,
@@ -2096,7 +2096,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG14VU227161",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/262a4427d884.html",
       "year": 2027,
