@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-10-26T02:58:18",
-  "vehicle_count": 192,
+  "generated_at": "2026-10-26T03:37:52",
+  "vehicle_count": 191,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -806,17 +806,6 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 48849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric PREFERRED",
-      "vin": "KM8HC3A62TU046050",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/d00b025a0a41.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 44549.0,
       "price_currency": "CAD"
     },
     {
