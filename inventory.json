@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-11-17T18:53:36",
-  "vehicle_count": 171,
+  "generated_at": "2026-11-18T04:02:25",
+  "vehicle_count": 161,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -83,17 +83,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai ACCENT Hatchback Preferred | CarPlay | Low KM",
-      "vin": "3KPC25A39KE084729",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/2a67acef2c81.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Accent",
-      "condition": "used",
-      "price": 13500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Hyundai Santa Fe Essential AWD | No Accidents | Heated Seats",
       "vin": "5NMS2CAD8KH097862",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/db6077fe6b72.html",
@@ -113,17 +102,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 13991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Palisade Ultimate AWD | No Accidents | 7 Passenger",
-      "vin": "KM8R5DHE9LU131601",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/ce52b61e6d5d.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 24991.0,
       "price_currency": "CAD"
     },
     {
@@ -149,17 +127,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Buick Envision Preferred AWD | CarPlay | Low KM",
-      "vin": "LRBFZMR45ND153033",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/d2c8fe769e1c.html",
-      "year": 2022,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "used",
-      "price": 25991.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Hyundai Palisade Ultimate AWD | 7 Passenger | No Accidents",
       "vin": "KM8R5DHE4NU425460",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/dca266dc2f78.html",
@@ -171,17 +138,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Palisade Luxury | 8 Passenger | Certified",
-      "vin": "KM8R3DHE3NU466667",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a78dd5b1f7f4.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 32900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Mazda CX-5 Signature AWD | No Accidents | 360 Cameras",
       "vin": "JM3KFBEY7N0532734",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/4c5eb8da5c80.html",
@@ -189,7 +145,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 32991.0,
+      "price": 30449.0,
       "price_currency": "CAD"
     },
     {
@@ -200,7 +156,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 23991.0,
+      "price": 22800.0,
       "price_currency": "CAD"
     },
     {
@@ -211,18 +167,18 @@
       "make": "Dodge",
       "model": "Charger",
       "condition": "used",
-      "price": 39991.0,
+      "price": 38991.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 XLT 302A | Low KM | FX4",
+      "name": "2023 Ford F-150 FX4 | Low KM | 302A PKG",
       "vin": "1FTFW1E88PKD73394",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/7648a35ce0ee.html",
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 48991.0,
+      "price": 45900.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +189,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "used",
-      "price": 34500.0,
+      "price": 33900.0,
       "price_currency": "CAD"
     },
     {
@@ -266,18 +222,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 26991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler Altitude 4WD | Low KM | No Accidents",
-      "vin": "1C4HJXENXPW698458",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/8f46035f70af.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 45991.0,
+      "price": 23900.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +244,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 34991.0,
+      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
@@ -310,18 +255,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 29991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Palisade Urband AWD | 8 Passenger | Certified",
-      "vin": "KM8R3DGE1RU776873",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/4a84fff39c6e.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 43991.0,
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
@@ -332,7 +266,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 37500.0,
+      "price": 36299.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +288,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee L",
       "condition": "used",
-      "price": 38991.0,
+      "price": 37991.0,
       "price_currency": "CAD"
     },
     {
@@ -376,18 +310,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 19991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota RAV4 XLE AWD | Heated Seats | Sunroof",
-      "vin": "2T3R1RFV8RC447231",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/75274511a719.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 37672.0,
+      "price": 19400.0,
       "price_currency": "CAD"
     },
     {
@@ -398,7 +321,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27991.0,
+      "price": 26900.0,
       "price_currency": "CAD"
     },
     {
@@ -409,18 +332,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 Premium Quattro | No Accidents | Pano Roof | White",
-      "vin": "WA1AUCF39S1079543",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a5dd65e0ea97.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 36900.0,
+      "price": 25900.0,
       "price_currency": "CAD"
     },
     {
@@ -442,7 +354,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 49500.0,
+      "price": 47991.0,
       "price_currency": "CAD"
     },
     {
@@ -479,17 +391,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson Preferred w/ Trend Package AWD | No accidents",
-      "vin": "5NMJCCDE4SH549447",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/a9755c14421c.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 34991.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Venue Preferred | CarPlay | Certified | White Rock",
       "vin": "KMHRC8A33SU354155",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/374205ef153d.html",
@@ -520,17 +421,6 @@
       "model": "Versa",
       "condition": "used",
       "price": 21400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos Comfortline AWD | No Accidents | CarPlay | White R",
-      "vin": "3VVUC7B24SM080579",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/0b92b73e0111.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 27400.0,
       "price_currency": "CAD"
     },
     {
