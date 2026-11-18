@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-11-18T05:09:56",
-  "vehicle_count": 164,
+  "generated_at": "2026-11-18T12:52:02",
+  "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -36,6 +36,28 @@
       "model": "Tucson",
       "condition": "used",
       "price": 12500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Toyota 4Runner SR5",
+      "vin": "JTEBU5JR0G5400110",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/9ebdd032f519.html",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 35991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Ford Escape Titanium 4WD | Low KM | Navigation",
+      "vin": "1FMCU9J97HUA01603",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/30c845623b87.html",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 14991.0,
       "price_currency": "CAD"
     },
     {
@@ -105,6 +127,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Honda Civic Sedan Sport | Low KM | Heated Seats",
+      "vin": "2HGFC2F83LH028385",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/23d772824e76.html",
+      "year": 2020,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 22991.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Hyundai Tucson Preferred",
       "vin": "KM8J3CA4XLU111646",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/4c2961f100cb.html",
@@ -124,6 +157,17 @@
       "model": "CX-5",
       "condition": "used",
       "price": 26991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Tesla Model Y Long Range | Low KM | One Owner",
+      "vin": "5YJYGDEE2MF143128",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/b5a254e93edc.html",
+      "year": 2021,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "used",
+      "price": 38991.0,
       "price_currency": "CAD"
     },
     {
@@ -190,17 +234,6 @@
       "model": "Mustang Mach-E",
       "condition": "used",
       "price": 33900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Kona Electric Ultimate | One Owner | Low KM",
-      "vin": "KM8K33AG4PU186511",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/647f2e1ae767.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -277,7 +310,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 34991.0,
+      "price": 33991.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +332,7 @@
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 47991.0,
+      "price": 47700.0,
       "price_currency": "CAD"
     },
     {
@@ -355,6 +388,28 @@
       "model": "Silverado 1500",
       "condition": "used",
       "price": 47991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Elantra Preferred | One Owner | Low KM",
+      "vin": "KMHLM4DG4SU097324",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/19558691781a.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 21991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai IONIQ 5 N | No Accidents | 641 HP",
+      "vin": "KM8KNDA84SU006753",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/7a8acc8d8cc1.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 64991.0,
       "price_currency": "CAD"
     },
     {
