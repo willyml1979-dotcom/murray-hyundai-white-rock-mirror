@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Hyundai White Rock",
-  "generated_at": "2026-11-18T04:02:25",
-  "vehicle_count": 161,
+  "generated_at": "2026-11-18T05:09:56",
+  "vehicle_count": 164,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -476,17 +476,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 29399.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra PREFERRED",
-      "vin": "KMHLM4DGXTU246126",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/ac75fba84e26.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 29149.0,
       "price_currency": "CAD"
     },
     {
@@ -1129,8 +1118,8 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
-      "vin": "KM8JBDD13TU548530",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/fcee1127803d.html",
+      "vin": "KM8JBDD13TU548396",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6c41febd4353.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -1183,17 +1172,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERRED AWD w/ Trend Pkg",
-      "vin": "3KMJCCDE3TE039385",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4521d522fbac.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41749.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Preferred AWD w-Trend Pkg",
       "vin": "3KMJCCDE7TE036277",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5f4e193495eb.html",
@@ -1235,17 +1213,6 @@
       "model": "Tucson",
       "condition": "new",
       "price": 41749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson PREFERRED AWD",
-      "vin": "KM8JBCDEXTU488324",
-      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/5c67c814f8a2.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 38049.0,
       "price_currency": "CAD"
     },
     {
@@ -1480,6 +1447,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Kona Electric PREFERRED",
+      "vin": "KM8HE3A67VU051709",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/394559a5805e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric PREFERRED",
+      "vin": "KM8HE3A68VU050911",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/170c383443dd.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 52599.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Kona PREFERRED FWD",
       "vin": "KM8HB3AB4VU513715",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/66ef63027b70.html",
@@ -1667,6 +1656,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8RMESA2VU162920",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/4567a7e9374f.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 69349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8RMESA0VU138115",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/6742a7120ef1.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 68999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Palisade XRT PRO",
       "vin": "KM8RJES20VU141873",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/8dd9a41d1803.html",
@@ -1755,6 +1766,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8P5DG14VU232019",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/3b778fbdc200.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 61249.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Sonata Hybrid Ultimate FWD",
       "vin": "KMHL34JJ9VA192261",
       "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/35557178d721.html",
@@ -1774,6 +1796,17 @@
       "model": "Venue",
       "condition": "new",
       "price": 27099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Venue ESSENTIAL",
+      "vin": "KMHRB8A36VU508526",
+      "url": "https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/new/9446b9bfebe1.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 25999.0,
       "price_currency": "CAD"
     }
   ]

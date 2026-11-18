@@ -1,6 +1,6 @@
 # Murray Hyundai White Rock
 
- dealership in Surrey. AI-readable inventory mirror, about 161 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 164 vehicles.
 
 - Official website: https://www.murrayhyundaiwhiterock.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/murray-hyundai-white-rock-mirror/used/
